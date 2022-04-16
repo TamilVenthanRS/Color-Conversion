@@ -98,22 +98,40 @@ cv2.waitKey(0)
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 <br>
+
+![2022-04-16](https://user-images.githubusercontent.com/75235477/163673464-1b76e776-b56a-405c-b3a1-18a84cd9e9d5.png)
+
+
 <br>
 
 ### ii) HSV to RGB and BGR
 <br>
+
+![2022-04-16 (2)](https://user-images.githubusercontent.com/75235477/163673475-c0b7514d-47ce-4fb7-bd67-df700102a8ac.png)
+
 <br>
 
 ### iii) RGB and BGR to YCrCb
 <br>
+
+![2022-04-16 (3)](https://user-images.githubusercontent.com/75235477/163673481-4b37166f-304f-4488-acb9-11146e00edb4.png)
+
 <br>
 
 ### iv) Split and merge RGB Image
 <br>
+
+![2022-04-16 (4)](https://user-images.githubusercontent.com/75235477/163673509-2584280d-9bb7-4e9a-8595-3791cf36fcdf.png)
+
+
 <br>
 
 ### v) Split and merge HSV Image
 <br>
+
+![2022-04-16 (5)](https://user-images.githubusercontent.com/75235477/163673513-7350d82f-37bb-4357-aa91-dbb0b51aec86.png)
+
+
 <br>
 
 
